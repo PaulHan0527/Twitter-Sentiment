@@ -9,7 +9,7 @@ Group Member : [Gabe Lima](https://github.com/GabeLima)
 
 ## Technologies Used
 
-* Sklearn
+* Sklearn - RandomForest, SVM, Logistic Regression
 * TextBlob
 * Twitter API
 
